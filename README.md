@@ -4,7 +4,7 @@ Team WhoDiKnee's Houdini Game Jam 2020 Entry
 Game Jam info can be found here... https://itch.io/jam/houdini-game-jam-2020
 
 TODO
- - [ ] Come up with some ideas
+ - [ ] Come up with some [ideas](../../projects/1)
  - [ ] Decide on an idea/theme
  - [ ] Decide on a style (top down, platform, first person, etc)
  - [ ] Design some assets
